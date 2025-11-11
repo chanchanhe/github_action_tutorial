@@ -13,4 +13,4 @@ jobs:
         run: ls -ltra
 
       - name: Execute Cowsay Command
-        run: ./ascii-script.sh
+        run: ascii-script.sh
