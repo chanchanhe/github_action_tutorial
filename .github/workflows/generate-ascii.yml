@@ -14,5 +14,7 @@ jobs:
 
       - name: Execute Cowsay Command
         run: |
+          ls
+          pwd
           chmod +x ./ascii-script.sh
           ./ascii-script.sh
