@@ -16,5 +16,5 @@ jobs:
         run: |
           ls
           pwd
-          chmod +x ./ascii-script.sh
-          ./ascii-script.sh
+          chmod +x .github/workflows/ascii-script.sh
+          .github/workflows/ascii-script.sh
